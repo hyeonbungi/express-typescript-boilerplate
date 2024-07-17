@@ -12,12 +12,6 @@
     "test": "jest",
     "prepare": "husky"
   },
-  "lint-staged": {
-    "src/**/*.{ts,tsx}": [
-      "eslint --fix",
-      "prettier --write"
-    ]
-  },
   "keywords": [],
   "author": "hyeonbungi",
   "license": "ISC",
